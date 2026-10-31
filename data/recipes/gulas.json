@@ -1,0 +1,53 @@
+{
+  "id": "cz-gulas",
+  "slug": "gulas",
+  "title": "Hovězí guláš",
+  "description": "Poctivý český guláš s cibulí a paprikou – ideální s knedlíkem nebo chlebem.",
+  "servings": 4,
+  "prepMinutes": 20,
+  "cookMinutes": 90,
+  "difficulty": "střední",
+  "tags": ["hlavní jídlo", "jednoduché", "klasika"],
+  "ingredients": [
+    { "name": "hovězí kližka nebo plec", "amount": 800, "unit": "g", "note": "na kostky" },
+    { "name": "cibule", "amount": 4, "unit": "ks" },
+    { "name": "sádlo nebo olej", "amount": 3, "unit": "lžíce" },
+    { "name": "sladká mletá paprika", "amount": 2, "unit": "lžíce" },
+    { "name": "rajčatový protlak", "amount": 1, "unit": "lžíce" },
+    { "name": "česnek", "amount": 3, "unit": "ks" },
+    { "name": "kmín", "amount": 1, "unit": "lžička" },
+    { "name": "majoránka", "amount": 1, "unit": "lžička" },
+    { "name": "sůl", "amount": null, "unit": "dle chuti" },
+    { "name": "pepř", "amount": null, "unit": "dle chuti" },
+    { "name": "voda nebo vývar", "amount": 500, "unit": "ml" }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": "Cibuli jemně nakrájejte a na sádle zpěňte dozlatova."
+    },
+    {
+      "order": 2,
+      "text": "Přidejte maso na kostky a opečte ze všech stran. Osolte a opepřete."
+    },
+    {
+      "order": 3,
+      "text": "Oheň stáhněte, vmíchejte mletou papriku a protlak, ať se nespálí. Zalijte trochou vody."
+    },
+    {
+      "order": 4,
+      "text": "Přidejte kmín a česnek. Dusťe pod pokličkou, občas podlijte.",
+      "timerSeconds": 4800
+    },
+    {
+      "order": 5,
+      "text": "Ke konci přidejte majoránku. Případně zahustěte moukou rozmíchanou ve vodě."
+    },
+    {
+      "order": 6,
+      "text": "Podávejte s knedlíkem, chlebem nebo bramborem."
+    }
+  ],
+  "updatedAt": "2026-10-31T00:00:00.000Z",
+  "builtin": true
+}

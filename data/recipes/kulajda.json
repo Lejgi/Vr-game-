@@ -1,0 +1,51 @@
+{
+  "id": "cz-kulajda",
+  "slug": "kulajda",
+  "title": "Kulajda",
+  "description": "Jihočeská kyselo-sladká polévka s houbami, bramborem, vejcem a koprem.",
+  "servings": 4,
+  "prepMinutes": 15,
+  "cookMinutes": 35,
+  "difficulty": "střední",
+  "tags": ["polévka", "houby", "klasika"],
+  "ingredients": [
+    { "name": "brambory", "amount": 500, "unit": "g" },
+    { "name": "sušené nebo čerstvé houby", "amount": 30, "unit": "g", "note": "sušené; nebo cca 150 g čerstvých" },
+    { "name": "cibule", "amount": 1, "unit": "ks" },
+    { "name": "kmín", "amount": 0.5, "unit": "lžička" },
+    { "name": "bobkový list", "amount": 1, "unit": "ks" },
+    { "name": "smetana ke šlehání", "amount": 200, "unit": "ml" },
+    { "name": "hladká mouka", "amount": 1, "unit": "lžíce" },
+    { "name": "ocet", "amount": 2, "unit": "lžíce" },
+    { "name": "cukr", "amount": 1, "unit": "lžička" },
+    { "name": "kopr", "amount": 2, "unit": "lžíce", "note": "nasekaný" },
+    { "name": "vejce", "amount": 4, "unit": "ks", "note": "vařená natvrdo" },
+    { "name": "sůl", "amount": null, "unit": "dle chuti" },
+    { "name": "voda", "amount": 1.2, "unit": "l" }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": "Sušené houby namočte. Brambory nakrájejte na kostky."
+    },
+    {
+      "order": 2,
+      "text": "V hrnci zpěňte cibuli, přidejte houby, brambory, kmín, bobkový list a zalijte vodou. Vařte do měkka.",
+      "timerSeconds": 1200
+    },
+    {
+      "order": 3,
+      "text": "Smetanu rozmíchejte s moukou a vlijte do polévky. Krátce povařte."
+    },
+    {
+      "order": 4,
+      "text": "Dochuťte octem, cukrem a solí. Na závěr vmíchejte kopr."
+    },
+    {
+      "order": 5,
+      "text": "Podávejte s půlkou vejce natvrdo v každé misce."
+    }
+  ],
+  "updatedAt": "2026-10-31T00:00:00.000Z",
+  "builtin": true
+}

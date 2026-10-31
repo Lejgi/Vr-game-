@@ -1,0 +1,44 @@
+{
+  "id": "cz-bramborak",
+  "slug": "bramborak",
+  "title": "Bramborák",
+  "description": "Křupavé bramborové placky s česnekem a majoránkou.",
+  "servings": 4,
+  "prepMinutes": 20,
+  "cookMinutes": 25,
+  "difficulty": "snadný",
+  "tags": ["hlavní jídlo", "smažené", "rychlé"],
+  "ingredients": [
+    { "name": "brambory", "amount": 1, "unit": "kg" },
+    { "name": "cibule", "amount": 1, "unit": "ks" },
+    { "name": "česnek", "amount": 3, "unit": "ks" },
+    { "name": "vejce", "amount": 2, "unit": "ks" },
+    { "name": "hladká mouka", "amount": 4, "unit": "lžíce" },
+    { "name": "majoránka", "amount": 1, "unit": "lžička" },
+    { "name": "kmín", "amount": 0.5, "unit": "lžička" },
+    { "name": "sůl", "amount": null, "unit": "dle chuti" },
+    { "name": "pepř", "amount": null, "unit": "dle chuti" },
+    { "name": "olej na smažení", "amount": 300, "unit": "ml" }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": "Brambory oloupejte a nastrouhajte najemno. Vymačkejte přebytečnou vodu."
+    },
+    {
+      "order": 2,
+      "text": "Přidejte nastrouhanou cibuli, prolisovaný česnek, vejce, mouku, majoránku, kmín, sůl a pepř. Promíchejte."
+    },
+    {
+      "order": 3,
+      "text": "Na pánvi rozpálejte olej. Lijte menší placky a smažte z obou stran dozlatova.",
+      "timerSeconds": 240
+    },
+    {
+      "order": 4,
+      "text": "Hotové bramboráky odložte na utěrku. Podávejte hned, dokud jsou křupavé."
+    }
+  ],
+  "updatedAt": "2026-10-31T00:00:00.000Z",
+  "builtin": true
+}

@@ -1,0 +1,50 @@
+{
+  "id": "cz-vepro-knedlo-zelo",
+  "slug": "vepro-knedlo-zelo",
+  "title": "Vepřo-knedlo-zelo",
+  "description": "Pečená vepřová pečeně s knedlíkem a dušeným zelím – národní klasika.",
+  "servings": 4,
+  "prepMinutes": 25,
+  "cookMinutes": 90,
+  "difficulty": "střední",
+  "tags": ["hlavní jídlo", "neděle", "klasika"],
+  "ingredients": [
+    { "name": "vepřová pečeně nebo krkovice", "amount": 1, "unit": "kg" },
+    { "name": "česnek", "amount": 4, "unit": "ks" },
+    { "name": "sůl", "amount": null, "unit": "dle chuti" },
+    { "name": "pepř", "amount": null, "unit": "dle chuti" },
+    { "name": "kmín", "amount": 1, "unit": "lžička" },
+    { "name": "cibule", "amount": 1, "unit": "ks" },
+    { "name": "voda", "amount": 250, "unit": "ml", "note": "na podlití" },
+    { "name": "kysané zelí", "amount": 500, "unit": "g" },
+    { "name": "cukr", "amount": 1, "unit": "lžíce" },
+    { "name": "sádlo", "amount": 1, "unit": "lžíce" },
+    { "name": "hladká mouka", "amount": 1, "unit": "lžíce", "note": "na zahuštění zelí" },
+    { "name": "houskový knedlík", "amount": 1, "unit": "ks" }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": "Maso prošpikujte nebo potřete česnekem, osolte, opepřete a posypte kmínem."
+    },
+    {
+      "order": 2,
+      "text": "Dejte na cibuli do pekáče, podlijte vodou a pečte na 180 °C dozlatova a do měkka.",
+      "timerSeconds": 4800
+    },
+    {
+      "order": 3,
+      "text": "Mezitím dusťe zelí na sádle s cukrem, případně zahusťte moukou. Dochutťe."
+    },
+    {
+      "order": 4,
+      "text": "Uvařte knedlík podle návodu na obalu nebo vlastního receptu."
+    },
+    {
+      "order": 5,
+      "text": "Maso nakrájejte, podávejte s knedlíkem, zelím a výpekem."
+    }
+  ],
+  "updatedAt": "2026-10-31T00:00:00.000Z",
+  "builtin": true
+}

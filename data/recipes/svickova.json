@@ -1,0 +1,63 @@
+{
+  "id": "cz-svickova",
+  "slug": "svickova",
+  "title": "Svíčková na smetaně",
+  "description": "Klasická česká svíčková s kořenovou zeleninou, smetanovou omáčkou a knedlíkem.",
+  "servings": 4,
+  "prepMinutes": 30,
+  "cookMinutes": 120,
+  "difficulty": "náročný",
+  "tags": ["hlavní jídlo", "neděle", "klasika"],
+  "ingredients": [
+    { "name": "hovězí svíčková nebo zadní", "amount": 800, "unit": "g" },
+    { "name": "mrkev", "amount": 2, "unit": "ks" },
+    { "name": "petržel", "amount": 2, "unit": "ks" },
+    { "name": "celer", "amount": 0.25, "unit": "ks", "note": "menší kus" },
+    { "name": "cibule", "amount": 2, "unit": "ks" },
+    { "name": "sádlo nebo olej", "amount": 2, "unit": "lžíce" },
+    { "name": "nové koření", "amount": 5, "unit": "ks" },
+    { "name": "pepř celý", "amount": 8, "unit": "ks" },
+    { "name": "bobkový list", "amount": 2, "unit": "ks" },
+    { "name": "tymian", "amount": 1, "unit": "lžička" },
+    { "name": "cukr", "amount": 1, "unit": "lžíce" },
+    { "name": "ocet", "amount": 2, "unit": "lžíce" },
+    { "name": "smetana ke šlehání", "amount": 250, "unit": "ml" },
+    { "name": "hladká mouka", "amount": 1, "unit": "lžíce" },
+    { "name": "sůl", "amount": null, "unit": "dle chuti" },
+    { "name": "houskový knedlík", "amount": 1, "unit": "ks", "note": "na podávání" },
+    { "name": "brusinky", "amount": null, "unit": "dle chuti", "note": "na podávání" }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": "Maso osolte, opepřete a ze všech stran opečte na sádle. Vyjměte a odložte."
+    },
+    {
+      "order": 2,
+      "text": "Na stejném tuku orestujte na kostičky nakrájenou mrkev, petržel, celer a cibuli. Přidejte cukr a nechte lehce zkaramelizovat."
+    },
+    {
+      "order": 3,
+      "text": "Zalijte trochou vody, přidejte ocet, nové koření, pepř, bobkový list a tymian. Vložte maso, podlijte vodou a přiklopte."
+    },
+    {
+      "order": 4,
+      "text": "Pečte v troubě na 160 °C do měkka.",
+      "timerSeconds": 5400
+    },
+    {
+      "order": 5,
+      "text": "Maso vyjměte. Zeleninu s výpekem rozmixujte, propasírujte a vraťte do hrnce."
+    },
+    {
+      "order": 6,
+      "text": "Smetanu smíchejte s moukou, vlijte do omáčky a krátce povařte. Ochutnejte sůl, cukr a ocet."
+    },
+    {
+      "order": 7,
+      "text": "Maso nakrájejte na plátky. Podávejte s knedlíkem, omáčkou a brusinkami."
+    }
+  ],
+  "updatedAt": "2026-10-31T00:00:00.000Z",
+  "builtin": true
+}

@@ -1,0 +1,46 @@
+{
+  "id": "cz-rizek",
+  "slug": "rizek",
+  "title": "Vepřový řízek",
+  "description": "Křupavý obalovaný řízek – česká klasika s bramborovým salátem nebo bramborem.",
+  "servings": 4,
+  "prepMinutes": 25,
+  "cookMinutes": 20,
+  "difficulty": "snadný",
+  "tags": ["hlavní jídlo", "smažené", "klasika"],
+  "ingredients": [
+    { "name": "vepřová kotleta nebo panenka", "amount": 600, "unit": "g" },
+    { "name": "hladká mouka", "amount": 80, "unit": "g" },
+    { "name": "vejce", "amount": 2, "unit": "ks" },
+    { "name": "strouhanka", "amount": 150, "unit": "g" },
+    { "name": "sůl", "amount": null, "unit": "dle chuti" },
+    { "name": "pepř", "amount": null, "unit": "dle chuti" },
+    { "name": "olej na smažení", "amount": 500, "unit": "ml" },
+    { "name": "citron", "amount": 1, "unit": "ks", "note": "na podávání" }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": "Maso nakrájejte na plátky, naklepte, osolte a opepřete."
+    },
+    {
+      "order": 2,
+      "text": "Připravte trojobal: mouka, rozšlehaná vejce, strouhanka."
+    },
+    {
+      "order": 3,
+      "text": "Každý plátek obalte v mouce, vejci a strouhance. Přebytek oklepejte."
+    },
+    {
+      "order": 4,
+      "text": "Rozpálejte olej na střední teplotu. Smažte řízky dozlatova z obou stran.",
+      "timerSeconds": 360
+    },
+    {
+      "order": 5,
+      "text": "Odmaštěte na papírové utěrce. Podávejte s citronem a přílohou."
+    }
+  ],
+  "updatedAt": "2026-10-31T00:00:00.000Z",
+  "builtin": true
+}
