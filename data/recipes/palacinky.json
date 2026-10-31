@@ -1,0 +1,41 @@
+{
+  "id": "cz-palacinky",
+  "slug": "palacinky",
+  "title": "Palačinky",
+  "description": "Tenké palačinky – sladké s marmeládou, tvarohem nebo ovocem.",
+  "servings": 4,
+  "prepMinutes": 10,
+  "cookMinutes": 25,
+  "difficulty": "snadný",
+  "tags": ["dezert", "rychlé", "snídaně"],
+  "ingredients": [
+    { "name": "hladká mouka", "amount": 250, "unit": "g" },
+    { "name": "mléko", "amount": 500, "unit": "ml" },
+    { "name": "vejce", "amount": 2, "unit": "ks" },
+    { "name": "sůl", "amount": 1, "unit": "špetka" },
+    { "name": "cukr", "amount": 1, "unit": "lžíce", "note": "volitelně" },
+    { "name": "máslo nebo olej", "amount": 1, "unit": "lžíce", "note": "na pečení" },
+    { "name": "marmeláda / tvaroh / ovoce", "amount": null, "unit": "dle chuti", "note": "náplň" }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": "Mouku, mléko, vejce, sůl a cukr vyšlehejte do hladkého těsta bez hrudek."
+    },
+    {
+      "order": 2,
+      "text": "Nechte těsto chvíli odpočinout.",
+      "timerSeconds": 600
+    },
+    {
+      "order": 3,
+      "text": "Na vymazané pánvi pečte tenké palačinky z obou stran dozlatova."
+    },
+    {
+      "order": 4,
+      "text": "Naplňte marmeládou, tvarohem nebo ovocem, srolujte a podávejte."
+    }
+  ],
+  "updatedAt": "2026-10-31T00:00:00.000Z",
+  "builtin": true
+}

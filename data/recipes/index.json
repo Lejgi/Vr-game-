@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "locale": "cs-CZ",
+  "generatedAt": "2026-10-31T00:00:00.000Z",
+  "recipes": [
+    "svickova.json",
+    "gulas.json",
+    "rizek.json",
+    "bramborak.json",
+    "palacinky.json",
+    "cesnecka.json",
+    "kulajda.json",
+    "vepro-knedlo-zelo.json",
+    "ovocne-knedliky.json",
+    "babovka.json"
+  ]
+}

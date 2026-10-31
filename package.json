@@ -1,0 +1,20 @@
+{
+  "name": "kucharka-mr",
+  "private": true,
+  "version": "0.1.0",
+  "description": "MR kuchařský pomocník pro Meta Quest 2 – české recepty offline + online",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build -w @kucharka/shared && npm run build -w @kucharka/api",
+    "dev": "npm run build -w @kucharka/shared && npm run dev -w @kucharka/api",
+    "start": "npm run start -w @kucharka/api",
+    "test": "npm run test -w @kucharka/api",
+    "seed": "npm run seed -w @kucharka/api",
+    "bundle:offline": "node scripts/bundle-offline.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

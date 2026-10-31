@@ -1,0 +1,48 @@
+{
+  "id": "cz-babovka",
+  "slug": "babovka",
+  "title": "Bábovka",
+  "description": "Nadýchaná domácí bábovka – vanilková, mramorová nebo s kakaem.",
+  "servings": 10,
+  "prepMinutes": 20,
+  "cookMinutes": 50,
+  "difficulty": "snadný",
+  "tags": ["dezert", "pečivo", "klasika"],
+  "ingredients": [
+    { "name": "hladká mouka", "amount": 300, "unit": "g" },
+    { "name": "cukr krupice", "amount": 200, "unit": "g" },
+    { "name": "máslo nebo olej", "amount": 150, "unit": "ml" },
+    { "name": "vejce", "amount": 3, "unit": "ks" },
+    { "name": "mléko", "amount": 150, "unit": "ml" },
+    { "name": "prášek do pečiva", "amount": 1, "unit": "ks" },
+    { "name": "vanilkový cukr", "amount": 1, "unit": "ks" },
+    { "name": "kakao", "amount": 2, "unit": "lžíce", "note": "na mramorování, volitelně" },
+    { "name": "sůl", "amount": 1, "unit": "špetka" },
+    { "name": "máslo a mouka", "amount": null, "unit": "dle chuti", "note": "na vymazání formy" }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": "Troubu předehřejte na 170 °C. Formu na bábovku vymažte a vysypejte moukou."
+    },
+    {
+      "order": 2,
+      "text": "Vejce s cukrem vyšlehejte, přidejte tuk, mléko, mouku, prášek do pečiva, vanilku a sůl. Promíchejte dohladka."
+    },
+    {
+      "order": 3,
+      "text": "Volitelně část těsta smíchejte s kakaem a do formy střídejte světlé a tmavé těsto."
+    },
+    {
+      "order": 4,
+      "text": "Pečte dozlatova; špejle musí vyjít čistá.",
+      "timerSeconds": 3000
+    },
+    {
+      "order": 5,
+      "text": "Nechte mírně zchladnout, vyklopte a případně poprašte moučkovým cukrem."
+    }
+  ],
+  "updatedAt": "2026-10-31T00:00:00.000Z",
+  "builtin": true
+}

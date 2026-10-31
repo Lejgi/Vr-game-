@@ -1,0 +1,44 @@
+{
+  "id": "cz-cesnecka",
+  "slug": "cesnecka",
+  "title": "Česnečka",
+  "description": "Hřejivá česneková polévka s bramborem, vejcem a sýrem.",
+  "servings": 4,
+  "prepMinutes": 10,
+  "cookMinutes": 25,
+  "difficulty": "snadný",
+  "tags": ["polévka", "rychlé", "klasika"],
+  "ingredients": [
+    { "name": "česnek", "amount": 6, "unit": "ks" },
+    { "name": "brambory", "amount": 400, "unit": "g" },
+    { "name": "vývar nebo voda", "amount": 1.2, "unit": "l" },
+    { "name": "majoránka", "amount": 1, "unit": "lžička" },
+    { "name": "kmín", "amount": 0.5, "unit": "lžička" },
+    { "name": "sůl", "amount": null, "unit": "dle chuti" },
+    { "name": "pepř", "amount": null, "unit": "dle chuti" },
+    { "name": "vejce", "amount": 2, "unit": "ks", "note": "volitelně" },
+    { "name": "sýr eidam", "amount": 50, "unit": "g", "note": "nastrouhaný" },
+    { "name": "chléb", "amount": null, "unit": "dle chuti", "note": "krutony" }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": "Brambory oloupejte a nakrájejte na kostky. Dejte vařit do vývaru s kmínem."
+    },
+    {
+      "order": 2,
+      "text": "Až jsou brambory téměř měkké, přidejte prolisovaný česnek, sůl, pepř a majoránku.",
+      "timerSeconds": 900
+    },
+    {
+      "order": 3,
+      "text": "Volitelně vlijte rozšlehaná vejce za stálého míchání."
+    },
+    {
+      "order": 4,
+      "text": "Nalijte do misek, posypte sýrem a podávejte s krutony."
+    }
+  ],
+  "updatedAt": "2026-10-31T00:00:00.000Z",
+  "builtin": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "cz-ovocne-knedliky",
+  "slug": "ovocne-knedliky",
+  "title": "Ovocné knedlíky",
+  "description": "Tvarohové knedlíky plněné ovocem, s máslem a cukrem.",
+  "servings": 4,
+  "prepMinutes": 30,
+  "cookMinutes": 20,
+  "difficulty": "střední",
+  "tags": ["dezert", "hlavní jídlo", "ovoce"],
+  "ingredients": [
+    { "name": "tvaroh polotučný", "amount": 250, "unit": "g" },
+    { "name": "hladká mouka", "amount": 200, "unit": "g" },
+    { "name": "vejce", "amount": 1, "unit": "ks" },
+    { "name": "sůl", "amount": 1, "unit": "špetka" },
+    { "name": "ovoce", "amount": 400, "unit": "g", "note": "jahody, meruňky, švestky…" },
+    { "name": "máslo", "amount": 80, "unit": "g", "note": "na podávání" },
+    { "name": "cukr moučka", "amount": null, "unit": "dle chuti" },
+    { "name": "tvaroh nebo strouhanka", "amount": null, "unit": "dle chuti", "note": "na posypání" }
+  ],
+  "steps": [
+    {
+      "order": 1,
+      "text": "Tvaroh, mouku, vejce a sůl zpracujte na hladké těsto. Nechte chvíli odpočinout.",
+      "timerSeconds": 600
+    },
+    {
+      "order": 2,
+      "text": "Těsto rozdělte, do každého kusu zabalte ovoce a pečlivě uzavřete."
+    },
+    {
+      "order": 3,
+      "text": "Knedlíky vařte ve vroucí osolené vodě, až vyplavou, ještě krátce doměkka.",
+      "timerSeconds": 480
+    },
+    {
+      "order": 4,
+      "text": "Projděte studenou vodou, okapejte. Podávejte s máslem, cukrem a tvarohem nebo strouhankou."
+    }
+  ],
+  "updatedAt": "2026-10-31T00:00:00.000Z",
+  "builtin": true
+}
