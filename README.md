@@ -39,6 +39,19 @@ Svíčková, guláš, řízek, bramborák, palačinky, česnečka, kulajda, vep�
 2. Při síti stáhne `GET /api/recipes/sync` a sloučí podle `updatedAt`.  
 3. Vlastní recepty: `POST /api/recipes` (nejsou `builtin`).
 
+## PC verze (vyzkoušet hned)
+
+Desktopová appka s recepty, režimem vaření a timery:
+
+```bash
+npm install
+npm run dev:pc          # prohlížeč na http://localhost:5173
+npm run dist:win        # Windows ZIP s Kucharka.exe → packages/desktop/release/
+```
+
+**Windows:** rozbal `Kucharka-0.1.0-Windows.zip` a spusť `Kucharka.exe`.  
+**Rychlý náhled bez Electronu:** `npm run dev:pc` v prohlížeči.
+
 ## Další kroky
 
 - Unity scéna: passthrough + world-space UI (viz `docs/unity-quest.md`)

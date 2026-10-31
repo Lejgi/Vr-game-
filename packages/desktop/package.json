@@ -1,0 +1,64 @@
+{
+  "name": "@kucharka/desktop",
+  "version": "0.1.0",
+  "private": true,
+  "description": "PC Kuchařka – české recepty s režimem vaření",
+  "author": "Kucharka",
+  "main": "electron/main.cjs",
+  "type": "module",
+  "scripts": {
+    "predev": "node ../../scripts/bundle-offline.mjs && cp ../../data/offline/recipes.json public/recipes.json",
+    "prebuild": "node ../../scripts/bundle-offline.mjs && cp ../../data/offline/recipes.json public/recipes.json",
+    "dev": "vite",
+    "build": "tsc -p tsconfig.json --noEmit && vite build",
+    "preview": "vite preview",
+    "electron:dev": "vite build && electron .",
+    "dist:win": "vite build && electron-builder --win zip --x64 -c.win.signAndEditExecutable=false",
+    "dist:linux": "vite build && electron-builder --linux AppImage --x64",
+    "dist:dir": "vite build && electron-builder --dir"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "@vitejs/plugin-react": "^4.3.4",
+    "electron": "33.2.1",
+    "electron-builder": "25.1.8",
+    "typescript": "^5.7.3",
+    "vite": "^6.0.7"
+  },
+  "build": {
+    "appId": "cz.kucharka.desktop",
+    "productName": "Kucharka",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "dist/**/*",
+      "electron/**/*",
+      "package.json"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "zip",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "signAndEditExecutable": false,
+      "artifactName": "Kucharka-${version}-Windows.${ext}"
+    },
+    "linux": {
+      "target": [
+        "AppImage"
+      ],
+      "category": "Utility",
+      "artifactName": "Kucharka-${version}-Linux.${ext}"
+    }
+  }
+}
