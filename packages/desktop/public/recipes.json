@@ -1,0 +1,976 @@
+{
+  "version": 1,
+  "locale": "cs-CZ",
+  "generatedAt": "2026-10-31T16:11:47.563Z",
+  "count": 10,
+  "recipes": [
+    {
+      "id": "cz-svickova",
+      "slug": "svickova",
+      "title": "Svíčková na smetaně",
+      "description": "Klasická česká svíčková s kořenovou zeleninou, smetanovou omáčkou a knedlíkem.",
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 120,
+      "difficulty": "náročný",
+      "tags": [
+        "hlavní jídlo",
+        "neděle",
+        "klasika"
+      ],
+      "ingredients": [
+        {
+          "name": "hovězí svíčková nebo zadní",
+          "amount": 800,
+          "unit": "g"
+        },
+        {
+          "name": "mrkev",
+          "amount": 2,
+          "unit": "ks"
+        },
+        {
+          "name": "petržel",
+          "amount": 2,
+          "unit": "ks"
+        },
+        {
+          "name": "celer",
+          "amount": 0.25,
+          "unit": "ks",
+          "note": "menší kus"
+        },
+        {
+          "name": "cibule",
+          "amount": 2,
+          "unit": "ks"
+        },
+        {
+          "name": "sádlo nebo olej",
+          "amount": 2,
+          "unit": "lžíce"
+        },
+        {
+          "name": "nové koření",
+          "amount": 5,
+          "unit": "ks"
+        },
+        {
+          "name": "pepř celý",
+          "amount": 8,
+          "unit": "ks"
+        },
+        {
+          "name": "bobkový list",
+          "amount": 2,
+          "unit": "ks"
+        },
+        {
+          "name": "tymian",
+          "amount": 1,
+          "unit": "lžička"
+        },
+        {
+          "name": "cukr",
+          "amount": 1,
+          "unit": "lžíce"
+        },
+        {
+          "name": "ocet",
+          "amount": 2,
+          "unit": "lžíce"
+        },
+        {
+          "name": "smetana ke šlehání",
+          "amount": 250,
+          "unit": "ml"
+        },
+        {
+          "name": "hladká mouka",
+          "amount": 1,
+          "unit": "lžíce"
+        },
+        {
+          "name": "sůl",
+          "amount": null,
+          "unit": "dle chuti"
+        },
+        {
+          "name": "houskový knedlík",
+          "amount": 1,
+          "unit": "ks",
+          "note": "na podávání"
+        },
+        {
+          "name": "brusinky",
+          "amount": null,
+          "unit": "dle chuti",
+          "note": "na podávání"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "text": "Maso osolte, opepřete a ze všech stran opečte na sádle. Vyjměte a odložte."
+        },
+        {
+          "order": 2,
+          "text": "Na stejném tuku orestujte na kostičky nakrájenou mrkev, petržel, celer a cibuli. Přidejte cukr a nechte lehce zkaramelizovat."
+        },
+        {
+          "order": 3,
+          "text": "Zalijte trochou vody, přidejte ocet, nové koření, pepř, bobkový list a tymian. Vložte maso, podlijte vodou a přiklopte."
+        },
+        {
+          "order": 4,
+          "text": "Pečte v troubě na 160 °C do měkka.",
+          "timerSeconds": 5400
+        },
+        {
+          "order": 5,
+          "text": "Maso vyjměte. Zeleninu s výpekem rozmixujte, propasírujte a vraťte do hrnce."
+        },
+        {
+          "order": 6,
+          "text": "Smetanu smíchejte s moukou, vlijte do omáčky a krátce povařte. Ochutnejte sůl, cukr a ocet."
+        },
+        {
+          "order": 7,
+          "text": "Maso nakrájejte na plátky. Podávejte s knedlíkem, omáčkou a brusinkami."
+        }
+      ],
+      "updatedAt": "2026-10-31T00:00:00.000Z",
+      "builtin": true
+    },
+    {
+      "id": "cz-gulas",
+      "slug": "gulas",
+      "title": "Hovězí guláš",
+      "description": "Poctivý český guláš s cibulí a paprikou – ideální s knedlíkem nebo chlebem.",
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 90,
+      "difficulty": "střední",
+      "tags": [
+        "hlavní jídlo",
+        "jednoduché",
+        "klasika"
+      ],
+      "ingredients": [
+        {
+          "name": "hovězí kližka nebo plec",
+          "amount": 800,
+          "unit": "g",
+          "note": "na kostky"
+        },
+        {
+          "name": "cibule",
+          "amount": 4,
+          "unit": "ks"
+        },
+        {
+          "name": "sádlo nebo olej",
+          "amount": 3,
+          "unit": "lžíce"
+        },
+        {
+          "name": "sladká mletá paprika",
+          "amount": 2,
+          "unit": "lžíce"
+        },
+        {
+          "name": "rajčatový protlak",
+          "amount": 1,
+          "unit": "lžíce"
+        },
+        {
+          "name": "česnek",
+          "amount": 3,
+          "unit": "ks"
+        },
+        {
+          "name": "kmín",
+          "amount": 1,
+          "unit": "lžička"
+        },
+        {
+          "name": "majoránka",
+          "amount": 1,
+          "unit": "lžička"
+        },
+        {
+          "name": "sůl",
+          "amount": null,
+          "unit": "dle chuti"
+        },
+        {
+          "name": "pepř",
+          "amount": null,
+          "unit": "dle chuti"
+        },
+        {
+          "name": "voda nebo vývar",
+          "amount": 500,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "text": "Cibuli jemně nakrájejte a na sádle zpěňte dozlatova."
+        },
+        {
+          "order": 2,
+          "text": "Přidejte maso na kostky a opečte ze všech stran. Osolte a opepřete."
+        },
+        {
+          "order": 3,
+          "text": "Oheň stáhněte, vmíchejte mletou papriku a protlak, ať se nespálí. Zalijte trochou vody."
+        },
+        {
+          "order": 4,
+          "text": "Přidejte kmín a česnek. Dusťe pod pokličkou, občas podlijte.",
+          "timerSeconds": 4800
+        },
+        {
+          "order": 5,
+          "text": "Ke konci přidejte majoránku. Případně zahustěte moukou rozmíchanou ve vodě."
+        },
+        {
+          "order": 6,
+          "text": "Podávejte s knedlíkem, chlebem nebo bramborem."
+        }
+      ],
+      "updatedAt": "2026-10-31T00:00:00.000Z",
+      "builtin": true
+    },
+    {
+      "id": "cz-rizek",
+      "slug": "rizek",
+      "title": "Vepřový řízek",
+      "description": "Křupavý obalovaný řízek – česká klasika s bramborovým salátem nebo bramborem.",
+      "servings": 4,
+      "prepMinutes": 25,
+      "cookMinutes": 20,
+      "difficulty": "snadný",
+      "tags": [
+        "hlavní jídlo",
+        "smažené",
+        "klasika"
+      ],
+      "ingredients": [
+        {
+          "name": "vepřová kotleta nebo panenka",
+          "amount": 600,
+          "unit": "g"
+        },
+        {
+          "name": "hladká mouka",
+          "amount": 80,
+          "unit": "g"
+        },
+        {
+          "name": "vejce",
+          "amount": 2,
+          "unit": "ks"
+        },
+        {
+          "name": "strouhanka",
+          "amount": 150,
+          "unit": "g"
+        },
+        {
+          "name": "sůl",
+          "amount": null,
+          "unit": "dle chuti"
+        },
+        {
+          "name": "pepř",
+          "amount": null,
+          "unit": "dle chuti"
+        },
+        {
+          "name": "olej na smažení",
+          "amount": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "citron",
+          "amount": 1,
+          "unit": "ks",
+          "note": "na podávání"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "text": "Maso nakrájejte na plátky, naklepte, osolte a opepřete."
+        },
+        {
+          "order": 2,
+          "text": "Připravte trojobal: mouka, rozšlehaná vejce, strouhanka."
+        },
+        {
+          "order": 3,
+          "text": "Každý plátek obalte v mouce, vejci a strouhance. Přebytek oklepejte."
+        },
+        {
+          "order": 4,
+          "text": "Rozpálejte olej na střední teplotu. Smažte řízky dozlatova z obou stran.",
+          "timerSeconds": 360
+        },
+        {
+          "order": 5,
+          "text": "Odmaštěte na papírové utěrce. Podávejte s citronem a přílohou."
+        }
+      ],
+      "updatedAt": "2026-10-31T00:00:00.000Z",
+      "builtin": true
+    },
+    {
+      "id": "cz-bramborak",
+      "slug": "bramborak",
+      "title": "Bramborák",
+      "description": "Křupavé bramborové placky s česnekem a majoránkou.",
+      "servings": 4,
+      "prepMinutes": 20,
+      "cookMinutes": 25,
+      "difficulty": "snadný",
+      "tags": [
+        "hlavní jídlo",
+        "smažené",
+        "rychlé"
+      ],
+      "ingredients": [
+        {
+          "name": "brambory",
+          "amount": 1,
+          "unit": "kg"
+        },
+        {
+          "name": "cibule",
+          "amount": 1,
+          "unit": "ks"
+        },
+        {
+          "name": "česnek",
+          "amount": 3,
+          "unit": "ks"
+        },
+        {
+          "name": "vejce",
+          "amount": 2,
+          "unit": "ks"
+        },
+        {
+          "name": "hladká mouka",
+          "amount": 4,
+          "unit": "lžíce"
+        },
+        {
+          "name": "majoránka",
+          "amount": 1,
+          "unit": "lžička"
+        },
+        {
+          "name": "kmín",
+          "amount": 0.5,
+          "unit": "lžička"
+        },
+        {
+          "name": "sůl",
+          "amount": null,
+          "unit": "dle chuti"
+        },
+        {
+          "name": "pepř",
+          "amount": null,
+          "unit": "dle chuti"
+        },
+        {
+          "name": "olej na smažení",
+          "amount": 300,
+          "unit": "ml"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "text": "Brambory oloupejte a nastrouhajte najemno. Vymačkejte přebytečnou vodu."
+        },
+        {
+          "order": 2,
+          "text": "Přidejte nastrouhanou cibuli, prolisovaný česnek, vejce, mouku, majoránku, kmín, sůl a pepř. Promíchejte."
+        },
+        {
+          "order": 3,
+          "text": "Na pánvi rozpálejte olej. Lijte menší placky a smažte z obou stran dozlatova.",
+          "timerSeconds": 240
+        },
+        {
+          "order": 4,
+          "text": "Hotové bramboráky odložte na utěrku. Podávejte hned, dokud jsou křupavé."
+        }
+      ],
+      "updatedAt": "2026-10-31T00:00:00.000Z",
+      "builtin": true
+    },
+    {
+      "id": "cz-palacinky",
+      "slug": "palacinky",
+      "title": "Palačinky",
+      "description": "Tenké palačinky – sladké s marmeládou, tvarohem nebo ovocem.",
+      "servings": 4,
+      "prepMinutes": 10,
+      "cookMinutes": 25,
+      "difficulty": "snadný",
+      "tags": [
+        "dezert",
+        "rychlé",
+        "snídaně"
+      ],
+      "ingredients": [
+        {
+          "name": "hladká mouka",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "mléko",
+          "amount": 500,
+          "unit": "ml"
+        },
+        {
+          "name": "vejce",
+          "amount": 2,
+          "unit": "ks"
+        },
+        {
+          "name": "sůl",
+          "amount": 1,
+          "unit": "špetka"
+        },
+        {
+          "name": "cukr",
+          "amount": 1,
+          "unit": "lžíce",
+          "note": "volitelně"
+        },
+        {
+          "name": "máslo nebo olej",
+          "amount": 1,
+          "unit": "lžíce",
+          "note": "na pečení"
+        },
+        {
+          "name": "marmeláda / tvaroh / ovoce",
+          "amount": null,
+          "unit": "dle chuti",
+          "note": "náplň"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "text": "Mouku, mléko, vejce, sůl a cukr vyšlehejte do hladkého těsta bez hrudek."
+        },
+        {
+          "order": 2,
+          "text": "Nechte těsto chvíli odpočinout.",
+          "timerSeconds": 600
+        },
+        {
+          "order": 3,
+          "text": "Na vymazané pánvi pečte tenké palačinky z obou stran dozlatova."
+        },
+        {
+          "order": 4,
+          "text": "Naplňte marmeládou, tvarohem nebo ovocem, srolujte a podávejte."
+        }
+      ],
+      "updatedAt": "2026-10-31T00:00:00.000Z",
+      "builtin": true
+    },
+    {
+      "id": "cz-cesnecka",
+      "slug": "cesnecka",
+      "title": "Česnečka",
+      "description": "Hřejivá česneková polévka s bramborem, vejcem a sýrem.",
+      "servings": 4,
+      "prepMinutes": 10,
+      "cookMinutes": 25,
+      "difficulty": "snadný",
+      "tags": [
+        "polévka",
+        "rychlé",
+        "klasika"
+      ],
+      "ingredients": [
+        {
+          "name": "česnek",
+          "amount": 6,
+          "unit": "ks"
+        },
+        {
+          "name": "brambory",
+          "amount": 400,
+          "unit": "g"
+        },
+        {
+          "name": "vývar nebo voda",
+          "amount": 1.2,
+          "unit": "l"
+        },
+        {
+          "name": "majoránka",
+          "amount": 1,
+          "unit": "lžička"
+        },
+        {
+          "name": "kmín",
+          "amount": 0.5,
+          "unit": "lžička"
+        },
+        {
+          "name": "sůl",
+          "amount": null,
+          "unit": "dle chuti"
+        },
+        {
+          "name": "pepř",
+          "amount": null,
+          "unit": "dle chuti"
+        },
+        {
+          "name": "vejce",
+          "amount": 2,
+          "unit": "ks",
+          "note": "volitelně"
+        },
+        {
+          "name": "sýr eidam",
+          "amount": 50,
+          "unit": "g",
+          "note": "nastrouhaný"
+        },
+        {
+          "name": "chléb",
+          "amount": null,
+          "unit": "dle chuti",
+          "note": "krutony"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "text": "Brambory oloupejte a nakrájejte na kostky. Dejte vařit do vývaru s kmínem."
+        },
+        {
+          "order": 2,
+          "text": "Až jsou brambory téměř měkké, přidejte prolisovaný česnek, sůl, pepř a majoránku.",
+          "timerSeconds": 900
+        },
+        {
+          "order": 3,
+          "text": "Volitelně vlijte rozšlehaná vejce za stálého míchání."
+        },
+        {
+          "order": 4,
+          "text": "Nalijte do misek, posypte sýrem a podávejte s krutony."
+        }
+      ],
+      "updatedAt": "2026-10-31T00:00:00.000Z",
+      "builtin": true
+    },
+    {
+      "id": "cz-kulajda",
+      "slug": "kulajda",
+      "title": "Kulajda",
+      "description": "Jihočeská kyselo-sladká polévka s houbami, bramborem, vejcem a koprem.",
+      "servings": 4,
+      "prepMinutes": 15,
+      "cookMinutes": 35,
+      "difficulty": "střední",
+      "tags": [
+        "polévka",
+        "houby",
+        "klasika"
+      ],
+      "ingredients": [
+        {
+          "name": "brambory",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "sušené nebo čerstvé houby",
+          "amount": 30,
+          "unit": "g",
+          "note": "sušené; nebo cca 150 g čerstvých"
+        },
+        {
+          "name": "cibule",
+          "amount": 1,
+          "unit": "ks"
+        },
+        {
+          "name": "kmín",
+          "amount": 0.5,
+          "unit": "lžička"
+        },
+        {
+          "name": "bobkový list",
+          "amount": 1,
+          "unit": "ks"
+        },
+        {
+          "name": "smetana ke šlehání",
+          "amount": 200,
+          "unit": "ml"
+        },
+        {
+          "name": "hladká mouka",
+          "amount": 1,
+          "unit": "lžíce"
+        },
+        {
+          "name": "ocet",
+          "amount": 2,
+          "unit": "lžíce"
+        },
+        {
+          "name": "cukr",
+          "amount": 1,
+          "unit": "lžička"
+        },
+        {
+          "name": "kopr",
+          "amount": 2,
+          "unit": "lžíce",
+          "note": "nasekaný"
+        },
+        {
+          "name": "vejce",
+          "amount": 4,
+          "unit": "ks",
+          "note": "vařená natvrdo"
+        },
+        {
+          "name": "sůl",
+          "amount": null,
+          "unit": "dle chuti"
+        },
+        {
+          "name": "voda",
+          "amount": 1.2,
+          "unit": "l"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "text": "Sušené houby namočte. Brambory nakrájejte na kostky."
+        },
+        {
+          "order": 2,
+          "text": "V hrnci zpěňte cibuli, přidejte houby, brambory, kmín, bobkový list a zalijte vodou. Vařte do měkka.",
+          "timerSeconds": 1200
+        },
+        {
+          "order": 3,
+          "text": "Smetanu rozmíchejte s moukou a vlijte do polévky. Krátce povařte."
+        },
+        {
+          "order": 4,
+          "text": "Dochuťte octem, cukrem a solí. Na závěr vmíchejte kopr."
+        },
+        {
+          "order": 5,
+          "text": "Podávejte s půlkou vejce natvrdo v každé misce."
+        }
+      ],
+      "updatedAt": "2026-10-31T00:00:00.000Z",
+      "builtin": true
+    },
+    {
+      "id": "cz-vepro-knedlo-zelo",
+      "slug": "vepro-knedlo-zelo",
+      "title": "Vepřo-knedlo-zelo",
+      "description": "Pečená vepřová pečeně s knedlíkem a dušeným zelím – národní klasika.",
+      "servings": 4,
+      "prepMinutes": 25,
+      "cookMinutes": 90,
+      "difficulty": "střední",
+      "tags": [
+        "hlavní jídlo",
+        "neděle",
+        "klasika"
+      ],
+      "ingredients": [
+        {
+          "name": "vepřová pečeně nebo krkovice",
+          "amount": 1,
+          "unit": "kg"
+        },
+        {
+          "name": "česnek",
+          "amount": 4,
+          "unit": "ks"
+        },
+        {
+          "name": "sůl",
+          "amount": null,
+          "unit": "dle chuti"
+        },
+        {
+          "name": "pepř",
+          "amount": null,
+          "unit": "dle chuti"
+        },
+        {
+          "name": "kmín",
+          "amount": 1,
+          "unit": "lžička"
+        },
+        {
+          "name": "cibule",
+          "amount": 1,
+          "unit": "ks"
+        },
+        {
+          "name": "voda",
+          "amount": 250,
+          "unit": "ml",
+          "note": "na podlití"
+        },
+        {
+          "name": "kysané zelí",
+          "amount": 500,
+          "unit": "g"
+        },
+        {
+          "name": "cukr",
+          "amount": 1,
+          "unit": "lžíce"
+        },
+        {
+          "name": "sádlo",
+          "amount": 1,
+          "unit": "lžíce"
+        },
+        {
+          "name": "hladká mouka",
+          "amount": 1,
+          "unit": "lžíce",
+          "note": "na zahuštění zelí"
+        },
+        {
+          "name": "houskový knedlík",
+          "amount": 1,
+          "unit": "ks"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "text": "Maso prošpikujte nebo potřete česnekem, osolte, opepřete a posypte kmínem."
+        },
+        {
+          "order": 2,
+          "text": "Dejte na cibuli do pekáče, podlijte vodou a pečte na 180 °C dozlatova a do měkka.",
+          "timerSeconds": 4800
+        },
+        {
+          "order": 3,
+          "text": "Mezitím dusťe zelí na sádle s cukrem, případně zahusťte moukou. Dochutťe."
+        },
+        {
+          "order": 4,
+          "text": "Uvařte knedlík podle návodu na obalu nebo vlastního receptu."
+        },
+        {
+          "order": 5,
+          "text": "Maso nakrájejte, podávejte s knedlíkem, zelím a výpekem."
+        }
+      ],
+      "updatedAt": "2026-10-31T00:00:00.000Z",
+      "builtin": true
+    },
+    {
+      "id": "cz-ovocne-knedliky",
+      "slug": "ovocne-knedliky",
+      "title": "Ovocné knedlíky",
+      "description": "Tvarohové knedlíky plněné ovocem, s máslem a cukrem.",
+      "servings": 4,
+      "prepMinutes": 30,
+      "cookMinutes": 20,
+      "difficulty": "střední",
+      "tags": [
+        "dezert",
+        "hlavní jídlo",
+        "ovoce"
+      ],
+      "ingredients": [
+        {
+          "name": "tvaroh polotučný",
+          "amount": 250,
+          "unit": "g"
+        },
+        {
+          "name": "hladká mouka",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "vejce",
+          "amount": 1,
+          "unit": "ks"
+        },
+        {
+          "name": "sůl",
+          "amount": 1,
+          "unit": "špetka"
+        },
+        {
+          "name": "ovoce",
+          "amount": 400,
+          "unit": "g",
+          "note": "jahody, meruňky, švestky…"
+        },
+        {
+          "name": "máslo",
+          "amount": 80,
+          "unit": "g",
+          "note": "na podávání"
+        },
+        {
+          "name": "cukr moučka",
+          "amount": null,
+          "unit": "dle chuti"
+        },
+        {
+          "name": "tvaroh nebo strouhanka",
+          "amount": null,
+          "unit": "dle chuti",
+          "note": "na posypání"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "text": "Tvaroh, mouku, vejce a sůl zpracujte na hladké těsto. Nechte chvíli odpočinout.",
+          "timerSeconds": 600
+        },
+        {
+          "order": 2,
+          "text": "Těsto rozdělte, do každého kusu zabalte ovoce a pečlivě uzavřete."
+        },
+        {
+          "order": 3,
+          "text": "Knedlíky vařte ve vroucí osolené vodě, až vyplavou, ještě krátce doměkka.",
+          "timerSeconds": 480
+        },
+        {
+          "order": 4,
+          "text": "Projděte studenou vodou, okapejte. Podávejte s máslem, cukrem a tvarohem nebo strouhankou."
+        }
+      ],
+      "updatedAt": "2026-10-31T00:00:00.000Z",
+      "builtin": true
+    },
+    {
+      "id": "cz-babovka",
+      "slug": "babovka",
+      "title": "Bábovka",
+      "description": "Nadýchaná domácí bábovka – vanilková, mramorová nebo s kakaem.",
+      "servings": 10,
+      "prepMinutes": 20,
+      "cookMinutes": 50,
+      "difficulty": "snadný",
+      "tags": [
+        "dezert",
+        "pečivo",
+        "klasika"
+      ],
+      "ingredients": [
+        {
+          "name": "hladká mouka",
+          "amount": 300,
+          "unit": "g"
+        },
+        {
+          "name": "cukr krupice",
+          "amount": 200,
+          "unit": "g"
+        },
+        {
+          "name": "máslo nebo olej",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "vejce",
+          "amount": 3,
+          "unit": "ks"
+        },
+        {
+          "name": "mléko",
+          "amount": 150,
+          "unit": "ml"
+        },
+        {
+          "name": "prášek do pečiva",
+          "amount": 1,
+          "unit": "ks"
+        },
+        {
+          "name": "vanilkový cukr",
+          "amount": 1,
+          "unit": "ks"
+        },
+        {
+          "name": "kakao",
+          "amount": 2,
+          "unit": "lžíce",
+          "note": "na mramorování, volitelně"
+        },
+        {
+          "name": "sůl",
+          "amount": 1,
+          "unit": "špetka"
+        },
+        {
+          "name": "máslo a mouka",
+          "amount": null,
+          "unit": "dle chuti",
+          "note": "na vymazání formy"
+        }
+      ],
+      "steps": [
+        {
+          "order": 1,
+          "text": "Troubu předehřejte na 170 °C. Formu na bábovku vymažte a vysypejte moukou."
+        },
+        {
+          "order": 2,
+          "text": "Vejce s cukrem vyšlehejte, přidejte tuk, mléko, mouku, prášek do pečiva, vanilku a sůl. Promíchejte dohladka."
+        },
+        {
+          "order": 3,
+          "text": "Volitelně část těsta smíchejte s kakaem a do formy střídejte světlé a tmavé těsto."
+        },
+        {
+          "order": 4,
+          "text": "Pečte dozlatova; špejle musí vyjít čistá.",
+          "timerSeconds": 3000
+        },
+        {
+          "order": 5,
+          "text": "Nechte mírně zchladnout, vyklopte a případně poprašte moučkovým cukrem."
+        }
+      ],
+      "updatedAt": "2026-10-31T00:00:00.000Z",
+      "builtin": true
+    }
+  ]
+}

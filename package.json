@@ -7,12 +7,15 @@
     "packages/*"
   ],
   "scripts": {
-    "build": "npm run build -w @kucharka/shared && npm run build -w @kucharka/api",
+    "build": "npm run build -w @kucharka/shared && npm run build -w @kucharka/api && npm run build -w @kucharka/desktop",
     "dev": "npm run build -w @kucharka/shared && npm run dev -w @kucharka/api",
+    "dev:pc": "npm run dev -w @kucharka/desktop",
     "start": "npm run start -w @kucharka/api",
     "test": "npm run test -w @kucharka/api",
     "seed": "npm run seed -w @kucharka/api",
-    "bundle:offline": "node scripts/bundle-offline.mjs"
+    "bundle:offline": "node scripts/bundle-offline.mjs",
+    "dist:win": "npm run dist:win -w @kucharka/desktop",
+    "dist:linux": "npm run dist:linux -w @kucharka/desktop"
   },
   "engines": {
     "node": ">=20"
