@@ -1,17 +1,30 @@
 # Noční spoj
 
-Návrh **solo VR hry** pro Meta Quest + Steam.
+Solo **VR hra** (Unreal Engine 5) — jsi poslední průvodčí nočního vlaku, který oficiálně neexistuje.
 
-> Jsi poslední průvodčí nočního vlaku, který oficiálně neexistuje. Do rána dovez divné cestující na správné zastávky — nebo se souprava rozplyne i s tebou.
+## Rychlý start (Unreal)
 
-## Dokumentace
-
-- **[docs/NAVRH.md](docs/NAVRH.md)** — kompletní herní návrh (pitch, smyčka, systémy, milníky)
+1. Otevři [`NocniSpoj/NocniSpoj.uproject`](NocniSpoj/NocniSpoj.uproject) v **UE 5.4+**
+2. Postup: [`docs/UNREAL.md`](docs/UNREAL.md)
+3. Herní návrh: [`docs/NAVRH.md`](docs/NAVRH.md)
 
 ## Stav
 
-Repo je vyčištěné. Zůstává jen návrh — žádný starý kód (kuchařka / API / PC build).
+| Vrstva | Stav |
+|--------|------|
+| Herní návrh | hotovo |
+| UE5 C++ základ (pawn, grab, jízdenka, lucerna, trať) | hotovo |
+| Mapa + meshe v Content | vytvoř v editoru (viz návod) |
+| Quest / Steam build | později |
 
-## Další krok
+## Struktura
 
-Po schválení návrhu: Unity prototyp (vagón + grab + 1 zastávka).
+```
+NocniSpoj/           ← Unreal projekt
+  Source/NocniSpoj/  ← C++ gameplay
+  Config/            ← GameMode, input, VR
+  Content/Data/      ← CSV zastávky / cestující
+docs/
+  NAVRH.md
+  UNREAL.md
+```

@@ -91,11 +91,14 @@ Jsi poslední průvodčí nočního vlaku, který oficiálně neexistuje — do 
 
 | | |
 |--|--|
-| Engine | **Unity** + OpenXR (Quest + SteamVR jedním projektem) |
-| Jazyk | C# |
-| Input | XR Interaction Toolkit |
-| Build | Quest APK + SteamVR PC |
+| Engine | **Unreal Engine 5.4+** + OpenXR (Quest + SteamVR) |
+| Jazyk | C++ (+ Blueprint pro polish) |
+| Input | Enhanced Input + Motion Controllers |
+| Projekt | `NocniSpoj/NocniSpoj.uproject` |
+| Build | Quest (Meta XR) + SteamVR PC |
 | Verze | Solo offline (žádný online nutný) |
+
+Setup: viz [`docs/UNREAL.md`](UNREAL.md).
 
 ---
 

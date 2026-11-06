@@ -1,30 +1,29 @@
-# Unity
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-[Ll]ogs/
-[Uu]ser[Ss]ettings/
-*.csproj
-*.unityproj
-*.sln
+# Unreal Engine
+NocniSpoj/Binaries/
+NocniSpoj/DerivedDataCache/
+NocniSpoj/Intermediate/
+NocniSpoj/Saved/
+NocniSpoj/Build/
+NocniSpoj/.vs/
+NocniSpoj/*.sln
+NocniSpoj/*.vsconfig
+NocniSpoj/CompileCommands/
+
+# IDE
+.vs/
+.idea/
 *.suo
 *.user
 *.userprefs
-*.pidb
-*.booproj
-*.svd
-*.pdb
-*.mdb
-*.opendb
-*.VC.db
-.vs/
 
-# Node (pokud se znovu objeví nástroje)
+# OS
+.DS_Store
+Thumbs.db
+
+# Node leftovers
 node_modules/
 dist/
 release/
 .env
 *.log
-.DS_Store
+prototype/
