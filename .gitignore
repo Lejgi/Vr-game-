@@ -1,22 +1,11 @@
-node_modules/
-dist/
-release/
-*.log
-.DS_Store
-data/store.json
-data/store.json.test-backup
-data/store.json.http-backup
-.env
-packages/desktop/release/
-packages/desktop/dist/
-.vs/
-Library/
-Temp/
-Obj/
-Build/
-Builds/
-Logs/
-UserSettings/
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
 *.csproj
 *.unityproj
 *.sln
@@ -30,3 +19,12 @@ UserSettings/
 *.mdb
 *.opendb
 *.VC.db
+.vs/
+
+# Node (pokud se znovu objeví nástroje)
+node_modules/
+dist/
+release/
+.env
+*.log
+.DS_Store
