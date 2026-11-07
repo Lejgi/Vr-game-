@@ -1,0 +1,6 @@
+---,PassengerId,DisplayName,WhisperLine,DestinationStopId
+Pass_Stin,Pass_Stin,"Muž bez stínu","Nemám kam vystoupit, dokud mě někdo nepojmenuje.",Stop_Rano
+Pass_Deti,Pass_Deti,"Děti s jízdenkou z roku 1968","Stanice na lístku už na mapě není.",Stop_Tumlov
+Pass_Duchodkyne,Pass_Duchodkyne,"Paní s mosazným kufříkem","Hledám spoj, který jezdil ve čtvrtek.",Stop_CernaVoda
+Pass_BezStinu,Pass_BezStinu,"Cestující v zimníku","Moje jízdenka je děrovaná dvakrát.",Stop_CernaVoda
+Pass_PruvodciSen,Pass_PruvodciSen,"Odraz ve skle","Ty jsi taky jen zastávka.",Stop_Rano

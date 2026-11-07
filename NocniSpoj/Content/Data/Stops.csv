@@ -1,0 +1,4 @@
+---,StopId,DisplayName,AtmosphereNote,DurationSeconds,PassengerIds
+Stop_Tumlov,Stop_Tumlov,"Tumlov","Mlha, smaltované cedule, jeden prázdný perón",480,Pass_Stin;Pass_Deti
+Stop_CernaVoda,Stop_CernaVoda,"Černá Voda","Déšť na oknech, teplé žárovky, šeptání za sedadlem",600,Pass_Duchodkyne;Pass_BezStinu
+Stop_Rano,Stop_Rano,"Ráno","První světlo — vlak se rozhoduje jestli zůstane legendou",300,Pass_Stin
